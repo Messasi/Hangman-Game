@@ -1,0 +1,6 @@
+computer
+password
+door
+football
+money
+camera
